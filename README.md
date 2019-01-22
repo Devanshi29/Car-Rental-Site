@@ -1,2 +1,2 @@
 # Car-Rental-Site
-Car Rental Website 
+Frontend of a car rental website with login and sign up pages
